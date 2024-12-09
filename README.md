@@ -51,7 +51,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Shadcn/ui Fullcalendar Example</b></a></td>
+      <td><a href="https://github.com/robskinney/fullcalendar-shadcn-example"><b>Shadcn/ui Fullcalendar Example</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/robskinney/fullcalendar-shadcn-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/robskinney/fullcalendar-shadcn-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/robskinney/fullcalendar-shadcn-example?style=flat-square&labelColor=343b41"/></td>
