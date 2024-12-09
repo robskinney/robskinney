@@ -12,6 +12,9 @@
   <img alt="Next.JS" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Remix" src="https://img.shields.io/badge/-Remix-ea2845?style=flat-square&logo=remix&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-000000?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Drizzle" src="https://img.shields.io/badge/-Drizzle-c5f74f?style=flat-square&logo=drizzle&logoColor=black" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3bcf8e?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
