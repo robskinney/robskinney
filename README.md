@@ -10,6 +10,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Next.JS" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Remix" src="https://img.shields.io/badge/-Remix-ea2845?style=flat-square&logo=remix&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-000000?style=flat-square&logo=prisma&logoColor=white" />
@@ -55,14 +56,21 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/robskinney/fullcalendar-shadcn-example"><b>Shadcn/ui Fullcalendar Example</b></a></td>
+      <td><a href="https://github.com/robskinney/fullcalendar-shadcn-example"><b>shadcn-ui-fullcalendar-example</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/robskinney/fullcalendar-shadcn-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/robskinney/fullcalendar-shadcn-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/robskinney/fullcalendar-shadcn-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/robskinney/fullcalendar-shadcn-example?style=flat-square&labelColor=343b41"/></td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/robskinney/shadcn-ui-clerk-blocks"><b>shadcn-ui-clerk-blocks</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/robskinney/shadcn-ui-clerk-blocks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/robskinney/shadcn-ui-clerk-blocks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/robskinney/shadcn-ui-clerk-blocks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/robskinney/shadcn-ui-clerk-blocks?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
-      <td><a href="https://github.com/robskinney/docx-report-generator"><b>Docx Report Generator</b></a></td>
+      <td><a href="https://github.com/robskinney/docx-report-generator"><b>docx-report-generator</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/robskinney/docx-report-generator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/robskinney/docx-report-generator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/robskinney/docx-report-generator?style=flat-square&labelColor=343b41"/></td>
